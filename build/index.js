@@ -1,6 +1,6 @@
 /*!
  * 
- *   ex-helper v0.2.0
+ *   ex-helper v1.0.0
  *   https://github.com/DeekHalden/ex-helper
  *
  *   Copyright (c) Dmytro Kulikov (https://github.com/DeekHalden)
