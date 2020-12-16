@@ -22,7 +22,7 @@ jobs:
           git config --local --list
           git checkout main
           git config user.email "$GH_EMAIL"
-          git config user.name "Dmytro Kulikov"
+          git config user.name "deekhalden"
         env:
             GH_EMAIL: ${{secrets.GH_EMAIL}}
           
