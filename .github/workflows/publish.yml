@@ -20,9 +20,9 @@ jobs:
         run: |
           git reset --hard
           git config --local --list
-          git checkout master
+          git checkout main
           git config user.email "$GH_EMAIL"
-          git config user.name "Francisco Hodge"
+          git config user.name "Dmytro Kulikov"
         env:
             GH_EMAIL: ${{secrets.GH_EMAIL}}
           
